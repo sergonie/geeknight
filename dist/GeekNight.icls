@@ -1,28 +1,23 @@
-<scheme name="vs2012" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Code New Roman" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Code New Roman" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="0.8" />
+<scheme name="GeekNight" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2016-09-27T11:02:03</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2016.2.1.0.0</property>
+    <property name="modified">2016-09-27T11:02:06</property>
+    <property name="originalScheme">vs2012</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="ced8df" />
-    <option name="CARET_ROW_COLOR" value="232d32" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b2b2b" />
+    <option name="CARET_ROW_COLOR" value="33393c" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -39,19 +34,19 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="313335" />
-    <option name="INDENT_GUIDE" value="232e34" />
+    <option name="INDENT_GUIDE" value="373c3f" />
     <option name="LINE_NUMBERS_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="323232" />
+    <option name="RIGHT_MARGIN_COLOR" value="3c3c3c" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="696969" />
     <option name="SELECTION_BACKGROUND" value="214283" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="TEARLINE_COLOR" value="313335" />
+    <option name="TEARLINE_COLOR" value="373a3c" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="313335" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
@@ -81,12 +76,17 @@
     <option name="BLADE_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="d6666a" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a2323" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.FUNCTION_NAME">
+      <value>
+        <option name="FOREGROUND" value="43b5a4" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -111,7 +111,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="762d1e" />
+        <option name="FOREGROUND" value="985545" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -151,7 +151,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="762d1e" />
+        <option name="FOREGROUND" value="a75a2f" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -191,13 +191,12 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="ebc686" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="cc7832" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
@@ -212,7 +211,7 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
+        <option name="FOREGROUND" value="af99d6" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -232,7 +231,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="287bde" />
+        <option name="FOREGROUND" value="8c8dde" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -281,7 +280,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="1e9ab4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -309,7 +307,7 @@
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="636d61" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="526d4a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -322,7 +320,6 @@
     <option name="DEFAULT_ENTITY">
       <value>
         <option name="FOREGROUND" value="487db4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -370,7 +367,12 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="569cd6" />
-        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -396,6 +398,12 @@
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="b4b4b4" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="81ccd7" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -424,7 +432,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="FOREGROUND" value="ad99c6" />
+        <option name="FOREGROUND" value="6ba789" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -551,8 +559,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="15b0c3" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="3fb0b1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -566,6 +573,17 @@
       <value>
         <option name="ERROR_STRIPE_COLOR" value="5d8e48" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -607,7 +625,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="a382bb" />
+        <option name="FOREGROUND" value="a997bb" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -676,7 +694,6 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -800,7 +817,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="b5a8e1" />
+        <option name="FOREGROUND" value="b99ce1" />
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
@@ -945,8 +962,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="1f292d" />
+        <option name="FOREGROUND" value="e1e1e1" />
+        <option name="BACKGROUND" value="323537" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1033,18 +1050,12 @@
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="b5cea8" />
+        <option name="FOREGROUND" value="5b849d" />
       </value>
     </option>
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="569cd6" />
-      </value>
-    </option>
-    <option name="YAML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="57a64a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="YAML_SCALAR_DSTRING">
