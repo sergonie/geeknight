@@ -1,11 +1,4 @@
 <scheme name="GeekNight" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-09-27T11:02:03</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-09-27T11:02:06</property>
-    <property name="originalScheme">vs2012</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -33,18 +26,18 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="313335" />
-    <option name="INDENT_GUIDE" value="373c3f" />
-    <option name="LINE_NUMBERS_COLOR" value="" />
+    <option name="GUTTER_BACKGROUND" value="2f3335" />
+    <option name="INDENT_GUIDE" value="303639" />
+    <option name="LINE_NUMBERS_COLOR" value="414d55" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
-    <option name="RIGHT_MARGIN_COLOR" value="3c3c3c" />
+    <option name="RIGHT_MARGIN_COLOR" value="262626" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="696969" />
-    <option name="SELECTION_BACKGROUND" value="214283" />
+    <option name="SELECTION_BACKGROUND" value="26425a" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="373a3c" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="313335" />
@@ -620,7 +613,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d78b85" />
+        <option name="FOREGROUND" value="d77a68" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -963,7 +956,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e1e1e1" />
-        <option name="BACKGROUND" value="323537" />
+        <option name="BACKGROUND" value="2f3335" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -988,7 +981,7 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="ffcf17" />
+        <option name="EFFECT_COLOR" value="775e2c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
