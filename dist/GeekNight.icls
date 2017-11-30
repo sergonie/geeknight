@@ -4,7 +4,7 @@
     <property name="created">2017-10-28T16:30:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-10-28T16:30:43</property>
+    <property name="modified">2017-11-30T13:34:49</property>
     <property name="originalScheme">GeekNight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.15" />
@@ -35,7 +35,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="2f3335" />
-    <option name="INDENT_GUIDE" value="303639" />
+    <option name="INDENT_GUIDE" value="35383a" />
     <option name="LINE_NUMBERS_COLOR" value="414d55" />
     <option name="METHOD_SEPARATORS_COLOR" value="33393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -53,7 +53,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
-    <option name="WHITESPACES" value="3c3f41" />
+    <option name="WHITESPACES" value="35383a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="304141" />
   </colors>
   <attributes>
